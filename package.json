@@ -1,0 +1,28 @@
+{
+  "name": "hoover-tech-test",
+  "version": "1.0.0",
+  "description": "This Hoover tech test is a simple program where a hoover moves and cleans dirt patches along the way.",
+  "main": "program.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauranpham/hoover-tech-test.git"
+  },
+  "author": "lauranpham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauranpham/hoover-tech-test/issues"
+  },
+  "homepage": "https://github.com/lauranpham/hoover-tech-test#readme"
+}
