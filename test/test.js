@@ -1,7 +1,7 @@
 const assert = require("assert");
-const hoover = require("../lib/program");
+const hoover = require("../program");
 
-describe("hoover function", () => {
+describe("hoover program function", () => {
   it("Should follow directions correctly to its final position", () => {
     const instructions = `5 5\n1 2\n1 0\n2 2\n2 3\nNNESEESWNWW`;
     assert.equal(hoover(instructions),`1 3\n1`);

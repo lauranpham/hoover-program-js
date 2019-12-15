@@ -93,3 +93,4 @@ function terminalOutput(hooverLocation) {
   console.log(hooverLocation.cleaned);
 }
 
+module.exports = hoover;

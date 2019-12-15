@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "This Hoover tech test is a simple program where a hoover moves and cleans dirt patches along the way.",
   "main": "program.js",
-  "directories": {
-    "lib": "lib"
-  },
   "dependencies": {
     "jasmine": "^3.5.0"
   },
