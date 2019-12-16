@@ -72,6 +72,6 @@ npm test
 ```
 
 #### Further:
-If I had more time and experience, I would have:
+If I had more time, I would have:
 - Added more validations and error messages e.g. for patches that have the same location, dirt patches cannot exist at the same location as the hoover's starting position to minimise confusion.
 - Added more testing conditions e.g. It should throw an invalidation error message if validation conditions are not met.
