@@ -1,5 +1,5 @@
 ## Background and About:
-This Hoover tech test is a simple program where a hoover moves and cleans dirt patches along the way.
+This Hoover exercise is a simple program where a hoover moves and cleans dirt patches along the way.
 
 ## Instructions:
 #### Download
